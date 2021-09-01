@@ -16,7 +16,11 @@ This is an interesting game based on Java Swing and Sqilte. There are a few thin
 
 As you can see, this creates a 16x16 grid of tiles, and there are 40 mines hidden throughout the grid.
 
+<<<<<<< HEAD
 ![img1.png](README.assets/img1.png)
+=======
+![图片 1.png](https://github.com/JungFF/MineSweeper/README.assets/图片 1.png)
+>>>>>>> refs/remotes/origin/main
 
 If you click on a tile, hopefully there won’t be a mine there, but you will see a number indicating how many mines there are in adjacent tiles. For example, here, the number is “1”, which means in one of the 8 surrounding tiles, there is a mine:
 
